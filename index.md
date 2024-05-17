@@ -4,6 +4,6 @@
 # Welcome
 Welcome to my GitHub page 🙋‍♂️
 
-<form action="https://github.com/ChilledEther">
-    Visit my <input type="submit" value="GitHub" class="btn"/>
-</form>
+## References
+- [About Me](/about)
+- [GitHub](https://github.com/chilledether)
