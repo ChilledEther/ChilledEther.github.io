@@ -1,7 +1,3 @@
----
-layout: doc
----
-
 # Welcome
 Welcome to my GitHub page 🙋‍♂️
 
