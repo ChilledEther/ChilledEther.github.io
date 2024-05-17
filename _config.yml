@@ -1,11 +1,6 @@
 title: ChilledEther
 description: ChilledEther's git repository
-baseurl: "/" # the subpath of your site, e.g. /blog
-domain: chilledether.github.io
-url: https://chilledether.github.io
-github_username:  ChilledEther
 show_downloads: true
-markdown: kramdown
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
